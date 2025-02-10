@@ -1,5 +1,5 @@
 {
-    "name": "dcat-plus/laravel-admin",
+    "name": "wbjson-dcat-plus/laravel-admin",
     "description": "dcat-plus admin",
     "type": "library",
     "keywords": ["dcat","saas", "laravel", "admin", "grid", "form", "laravel saas admin"],
